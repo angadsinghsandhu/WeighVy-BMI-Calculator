@@ -1,4 +1,4 @@
-# <ins> BMI Calculator APP </ins>
+# <ins> WeighVy: BMI Calculator APP </ins>
 A Flutter based project.
 
 
